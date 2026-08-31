@@ -159,3 +159,28 @@ I’d also encourage everyone here to check out each other’s articles, leave m
 Let’s keep learning, sharing, and supporting the community!
 A special thank you to Kiro from AWS for supporting me in drafting and refining this article.
 #AWS #AWSStudentRewards #AWSBuilderCenter #AWSStudents #CloudComputing #CloudEngineering #DevOps #AWSCommunity #StudentBuilders #AWSCertification#Kiro
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Add dark mode toggle and custom code snippet formatting in the post editor
+Developer Tools
+
+Other
+
+alley_candy
+alley_candy
+Provide an integrated dark mode option for the content editor along with enhanced syntax highlighting for modern web and cloud code snippets (e.g., Python, JSON, Terraform, YAML). This will improve readability and make drafting technical articles much smoother for developers sharing code-heavy guides.
+Submitted
+#experience
+Published Aug 29, 2026
+
+
+this is a wish which i have uploaded on the aws builder platform .
